@@ -10,8 +10,8 @@ def reverse_name(name)
   last_first = name.split.reverse
 end
 
-def borg_name(name)
-    last_first_borg = name << "Borg"
+def borg_name(name_arr)
+    last_first_borg = name_arr << "Borg"
 end
 
 name = "Johanna Jackson"
