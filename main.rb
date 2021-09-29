@@ -11,7 +11,7 @@ def reverse_name(name)
 end
 
 def borg_name(name_arr)
-    last_first_borg = name_arr << "Borg"
+  last_first_borg = name_arr << "Borg"
 end
 
 name = "Johanna Jackson"
